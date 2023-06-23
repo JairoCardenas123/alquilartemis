@@ -1,0 +1,17 @@
+
+----------------------------------------------------------------------------------
+ - 1.PRIMERAMENTE SE CREA UNA CARPETA [backend]                                  --
+ -                                                                                --
+ - 2.DESPUES SE ABRE LA TERMINAL, SE ENTRA A LA CARPETA backend[cd backend]        --
+ -                                                                                  --
+ - 3.DESPUES HACEMOS EL PROCESO DE INSTALACION CON EL COMANDO [npm init -y]          --
+ -                                                                                    --
+ - 4.SE AGREGARA UNA DOCUMENTO LLAMADO PACKAGE.JSON                                    --
+ -                                                                                      ---------
+ - 5.AHORA VOLVEMOS A LA TERMINAL Y PONEMOS ESTE COMANDO PARA INSTALAR EXPRESS [npm i express]  -------------------------------------------------------------
+ -
+ - 6.AHORA DENTRO DE LA CARPETA BACKEND CREAMOS LAS SIGUIENTES CARPETAS,[src(dentro de src "carpetas")controllers,db,routes,(y archivos llamados)config.js,app,js,index.js]
+ -
+ - 7.SELECCIONAMOS LA CARPETA BACKEND Y CREAMOS .env
+ -ahora vamos a index.js a codear :DD
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------
